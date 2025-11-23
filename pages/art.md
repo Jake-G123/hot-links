@@ -1,5 +1,10 @@
 # Art and Drawing Tutorials
 
+## [How to Draw a Bat](https://www.nps.gov/articles/detojr-bat-drawing.htm)
+[Archived Link](https://web.archive.org/web/20250814121752/https://www.nps.gov/articles/detojr-bat-drawing.htm)
+
+A small visual tutorial on how to draw a bat.
+
 ## [How to Draw a Cat](https://www.toadhollowstudio.com/wp_blog/draw-cat-step/)
 [Archived Link](http://web.archive.org/web/20240624174628/https://www.toadhollowstudio.com/wp_blog/draw-cat-step/)
 

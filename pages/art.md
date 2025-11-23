@@ -1,5 +1,10 @@
 # Art and Drawing Tutorials
 
+## [Art Wikipedia](https://en.wikipedia.org/wiki/Art)
+[Archived Link](https://web.archive.org/web/20251114175327/https://en.wikipedia.org/wiki/Art)
+
+A wikipedia article about art.
+
 ## [How to Draw a Cat](https://www.toadhollowstudio.com/wp_blog/draw-cat-step/)
 [Archived Link](http://web.archive.org/web/20240624174628/https://www.toadhollowstudio.com/wp_blog/draw-cat-step/)
 
